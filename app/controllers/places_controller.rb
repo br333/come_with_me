@@ -1,4 +1,4 @@
-class PostsController < ApplicationController
+class PlacesController < ApplicationController
   def index
 
   end
@@ -21,4 +21,5 @@ class PostsController < ApplicationController
 
   def destroy
 
-  endend
+  end
+end

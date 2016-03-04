@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  reserved_schedule: 2016-03-04 11:07:15
+  event_id: 1
+
+two:
+  user_id: 1
+  reserved_schedule: 2016-03-04 11:07:15
+  event_id: 1
